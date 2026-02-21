@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local runtime output
+listener.log
+
+# WiFi credentials (never commit)
+credentials.h
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/

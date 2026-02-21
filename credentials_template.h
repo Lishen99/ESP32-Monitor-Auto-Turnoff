@@ -1,0 +1,5 @@
+// WiFi credentials template
+// Copy this file to "credentials.h" and fill in your actual WiFi details
+
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
